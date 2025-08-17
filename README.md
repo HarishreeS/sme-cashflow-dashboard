@@ -2,7 +2,7 @@
 # 💳 SME Cashflow Insights Dashboard
 
 An interactive **Fintech Analytics Dashboard** built with **Streamlit** to simulate SME (Small & Medium Enterprise) transactions, compute financial KPIs, and visualize cashflows.  
-This project was designed as a **portfolio project** to showcase data-driven product thinking for fintech startups like Aspire.
+This project was designed as a **portfolio project** to showcase data-driven product thinking for fintech startups
 
 ---
 
@@ -35,11 +35,6 @@ Here’s a preview of the dashboard in action:
 
 ## ⚡ Quickstart
 
-Clone the repo:
-```bash
-git clone https://github.com/HarishreeS/sme-cashflow-dashboard.git
-cd sme-cashflow-dashboard
-```
 
 Create and activate virtual environment:
 ```bash
