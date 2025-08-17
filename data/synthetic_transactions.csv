@@ -1,0 +1,756 @@
+Date,Transaction_Type,Category,Amount,Counterparty,Payment_Status
+2024-08-01,Outflow,Cloud & SaaS,41001.0,Supplier W,Paid
+2024-08-01,Outflow,Salaries,52222.0,Supplier T,Paid
+2024-08-03,Inflow,Investment,61502.0,Client F,Paid
+2024-08-03,Outflow,Salaries,33227.0,Supplier U,Paid
+2024-08-03,Outflow,Cloud & SaaS,29771.0,Supplier Z,Paid
+2024-08-04,Outflow,Utilities,47986.0,Supplier Z,Paid
+2024-08-04,Outflow,Cloud & SaaS,50251.0,Supplier W,Paid
+2024-08-05,Inflow,Services,16449.0,Client H,Paid
+2024-08-06,Inflow,Services,29373.0,Client B,Paid
+2024-08-06,Inflow,Subscription,59036.0,Client A,Paid
+2024-08-06,Outflow,Compliance,29512.0,Supplier T,Paid
+2024-08-06,Outflow,Vendors,47811.0,Supplier Y,Paid
+2024-08-07,Inflow,Sales Revenue,44845.0,Client E,Paid
+2024-08-07,Outflow,Utilities,45885.0,Supplier V,Paid
+2024-08-08,Inflow,Subscription,77725.0,Client C,Paid
+2024-08-08,Inflow,Sales Revenue,35932.0,Client D,Paid
+2024-08-08,Outflow,Cloud & SaaS,15420.0,Supplier X,Paid
+2024-08-09,Inflow,Sales Revenue,33113.0,Client E,Paid
+2024-08-09,Inflow,Subscription,75821.0,Client B,Paid
+2024-08-09,Outflow,Utilities,39637.0,Supplier X,Paid
+2024-08-10,Outflow,Cloud & SaaS,50774.0,Supplier U,Paid
+2024-08-10,Outflow,Marketing,51293.0,Supplier V,Paid
+2024-08-12,Inflow,Investment,19782.0,Client B,Paid
+2024-08-12,Inflow,Investment,10515.0,Client G,Paid
+2024-08-12,Outflow,Cloud & SaaS,41566.0,Supplier T,Paid
+2024-08-13,Outflow,Cloud & SaaS,35560.0,Supplier W,Paid
+2024-08-13,Outflow,Salaries,36280.0,Supplier X,Paid
+2024-08-15,Inflow,Subscription,55810.0,Client G,Paid
+2024-08-15,Outflow,Vendors,9355.0,Supplier T,Paid
+2024-08-15,Outflow,Cloud & SaaS,39909.0,Supplier W,Paid
+2024-08-16,Outflow,Marketing,48720.0,Supplier T,Paid
+2024-08-17,Outflow,Compliance,29019.0,Supplier Y,Paid
+2024-08-18,Outflow,Vendors,59596.0,Supplier X,Paid
+2024-08-19,Outflow,Vendors,8206.0,Supplier Y,Paid
+2024-08-19,Outflow,Marketing,55470.0,Supplier W,Paid
+2024-08-20,Inflow,Services,48992.0,Client G,Paid
+2024-08-21,Inflow,Subscription,38447.0,Client G,Pending
+2024-08-21,Outflow,Marketing,14183.0,Supplier X,Paid
+2024-08-23,Inflow,Subscription,58773.0,Client F,Paid
+2024-08-23,Inflow,Services,73043.0,Client H,Paid
+2024-08-23,Outflow,Utilities,32353.0,Supplier W,Paid
+2024-08-23,Outflow,Rent,29538.0,Supplier Z,Paid
+2024-08-25,Inflow,Subscription,52503.0,Client H,Paid
+2024-08-25,Inflow,Sales Revenue,33981.0,Client C,Paid
+2024-08-25,Outflow,Compliance,25144.0,Supplier W,Paid
+2024-08-26,Inflow,Investment,28610.0,Client H,Pending
+2024-08-26,Inflow,Subscription,64512.0,Client F,Paid
+2024-08-26,Outflow,Vendors,29714.0,Supplier Y,Paid
+2024-08-28,Inflow,Subscription,18930.0,Client F,Paid
+2024-08-28,Outflow,Marketing,44688.0,Supplier U,Paid
+2024-08-28,Outflow,Cloud & SaaS,36857.0,Supplier Y,Paid
+2024-08-29,Inflow,Investment,11366.0,Client D,Paid
+2024-08-29,Outflow,Cloud & SaaS,41481.0,Supplier Z,Paid
+2024-08-29,Outflow,Salaries,39501.0,Supplier T,Paid
+2024-08-30,Outflow,Salaries,39580.0,Supplier U,Paid
+2024-08-31,Inflow,Sales Revenue,12912.0,Client D,Paid
+2024-08-31,Outflow,Utilities,23142.0,Supplier Y,Paid
+2024-08-31,Outflow,Salaries,42273.0,Supplier Y,Paid
+2024-09-01,Inflow,Subscription,21941.0,Client H,Paid
+2024-09-01,Outflow,Cloud & SaaS,36958.0,Supplier Z,Paid
+2024-09-01,Outflow,Utilities,38684.0,Supplier Z,Paid
+2024-09-03,Inflow,Subscription,43761.0,Client G,Paid
+2024-09-03,Inflow,Subscription,15791.0,Client D,Paid
+2024-09-03,Outflow,Cloud & SaaS,31988.0,Supplier V,Paid
+2024-09-04,Outflow,Cloud & SaaS,34823.0,Supplier U,Paid
+2024-09-05,Outflow,Cloud & SaaS,23236.0,Supplier W,Paid
+2024-09-05,Outflow,Cloud & SaaS,51737.0,Supplier Y,Paid
+2024-09-06,Outflow,Salaries,50446.0,Supplier V,Paid
+2024-09-07,Inflow,Services,31152.0,Client C,Paid
+2024-09-08,Inflow,Subscription,18321.0,Client B,Paid
+2024-09-08,Outflow,Vendors,45166.0,Supplier V,Paid
+2024-09-08,Outflow,Marketing,47275.0,Supplier X,Paid
+2024-09-09,Inflow,Sales Revenue,78260.0,Client B,Paid
+2024-09-09,Outflow,Cloud & SaaS,12769.0,Supplier W,Paid
+2024-09-09,Outflow,Marketing,25400.0,Supplier U,Paid
+2024-09-10,Inflow,Subscription,77424.0,Client B,Paid
+2024-09-10,Outflow,Marketing,39915.0,Supplier T,Paid
+2024-09-10,Outflow,Compliance,33328.0,Supplier Y,Paid
+2024-09-11,Inflow,Sales Revenue,22649.0,Client E,Paid
+2024-09-11,Inflow,Subscription,30915.0,Client H,Paid
+2024-09-11,Outflow,Compliance,13334.0,Supplier X,Paid
+2024-09-11,Outflow,Vendors,46173.0,Supplier V,Paid
+2024-09-12,Outflow,Cloud & SaaS,11378.0,Supplier W,Paid
+2024-09-12,Outflow,Salaries,22376.0,Supplier U,Paid
+2024-09-13,Inflow,Subscription,38715.0,Client H,Paid
+2024-09-13,Outflow,Vendors,45513.0,Supplier Z,Paid
+2024-09-15,Inflow,Sales Revenue,26867.0,Client A,Paid
+2024-09-15,Inflow,Investment,68177.0,Client B,Paid
+2024-09-15,Outflow,Marketing,14859.0,Supplier T,Paid
+2024-09-15,Outflow,Compliance,44595.0,Supplier X,Paid
+2024-09-17,Outflow,Marketing,47757.0,Supplier V,Paid
+2024-09-17,Outflow,Cloud & SaaS,32461.0,Supplier W,Paid
+2024-09-18,Outflow,Rent,5766.0,Supplier Y,Paid
+2024-09-18,Outflow,Salaries,20361.0,Supplier X,Paid
+2024-09-19,Inflow,Subscription,18528.0,Client E,Paid
+2024-09-19,Inflow,Investment,58598.0,Client E,Pending
+2024-09-19,Outflow,Compliance,15987.0,Supplier U,Paid
+2024-09-19,Outflow,Vendors,6380.0,Supplier X,Paid
+2024-09-20,Inflow,Subscription,19174.0,Client A,Paid
+2024-09-20,Inflow,Sales Revenue,74929.0,Client D,Paid
+2024-09-20,Outflow,Salaries,21552.0,Supplier W,Paid
+2024-09-20,Outflow,Utilities,32960.0,Supplier Z,Paid
+2024-09-21,Inflow,Investment,30051.0,Client H,Pending
+2024-09-21,Inflow,Services,11740.0,Client E,Paid
+2024-09-21,Outflow,Vendors,39868.0,Supplier X,Paid
+2024-09-22,Inflow,Subscription,62417.0,Client A,Paid
+2024-09-22,Inflow,Services,21617.0,Client B,Paid
+2024-09-23,Inflow,Subscription,40245.0,Client F,Paid
+2024-09-23,Inflow,Sales Revenue,69288.0,Client F,Paid
+2024-09-23,Outflow,Vendors,20836.0,Supplier Y,Paid
+2024-09-23,Outflow,Cloud & SaaS,48824.0,Supplier Y,Paid
+2024-09-24,Inflow,Services,63560.0,Client H,Paid
+2024-09-24,Outflow,Utilities,46434.0,Supplier Z,Paid
+2024-09-25,Inflow,Investment,36192.0,Client D,Paid
+2024-09-26,Inflow,Subscription,70724.0,Client D,Paid
+2024-09-26,Outflow,Rent,18631.0,Supplier Y,Paid
+2024-09-26,Outflow,Vendors,59701.0,Supplier U,Paid
+2024-09-27,Inflow,Investment,17369.0,Client A,Pending
+2024-09-27,Inflow,Subscription,51610.0,Client B,Paid
+2024-09-27,Outflow,Marketing,50356.0,Supplier Z,Paid
+2024-09-27,Outflow,Rent,55784.0,Supplier V,Paid
+2024-09-28,Inflow,Sales Revenue,21587.0,Client C,Paid
+2024-09-28,Inflow,Subscription,20752.0,Client A,Paid
+2024-09-28,Outflow,Utilities,6163.0,Supplier X,Paid
+2024-09-30,Inflow,Services,40048.0,Client E,Paid
+2024-09-30,Inflow,Subscription,66217.0,Client G,Pending
+2024-10-01,Inflow,Investment,61520.0,Client G,Paid
+2024-10-01,Inflow,Sales Revenue,47555.0,Client D,Paid
+2024-10-01,Outflow,Rent,53901.0,Supplier Y,Paid
+2024-10-02,Outflow,Compliance,36417.0,Supplier Z,Paid
+2024-10-04,Outflow,Cloud & SaaS,55919.0,Supplier V,Paid
+2024-10-06,Inflow,Subscription,13637.0,Client H,Paid
+2024-10-06,Inflow,Investment,16937.0,Client G,Paid
+2024-10-07,Inflow,Subscription,78569.0,Client G,Paid
+2024-10-07,Inflow,Services,64563.0,Client F,Paid
+2024-10-08,Inflow,Investment,19418.0,Client E,Pending
+2024-10-08,Inflow,Investment,45995.0,Client G,Paid
+2024-10-08,Outflow,Vendors,30453.0,Supplier Z,Paid
+2024-10-08,Outflow,Utilities,42739.0,Supplier Y,Paid
+2024-10-10,Outflow,Rent,31283.0,Supplier Z,Paid
+2024-10-11,Inflow,Subscription,33676.0,Client E,Pending
+2024-10-12,Inflow,Subscription,40372.0,Client B,Paid
+2024-10-12,Inflow,Subscription,26481.0,Client G,Paid
+2024-10-13,Inflow,Subscription,69793.0,Client G,Pending
+2024-10-13,Inflow,Services,42234.0,Client H,Paid
+2024-10-13,Outflow,Utilities,31908.0,Supplier Y,Paid
+2024-10-13,Outflow,Cloud & SaaS,49241.0,Supplier W,Paid
+2024-10-14,Inflow,Subscription,15072.0,Client B,Paid
+2024-10-14,Inflow,Sales Revenue,12460.0,Client E,Paid
+2024-10-14,Outflow,Compliance,32681.0,Supplier V,Paid
+2024-10-15,Outflow,Utilities,38790.0,Supplier X,Paid
+2024-10-15,Outflow,Vendors,39202.0,Supplier T,Paid
+2024-10-16,Outflow,Vendors,56476.0,Supplier X,Paid
+2024-10-17,Inflow,Investment,21857.0,Client D,Paid
+2024-10-17,Inflow,Investment,41163.0,Client H,Paid
+2024-10-17,Outflow,Compliance,56225.0,Supplier X,Paid
+2024-10-17,Outflow,Vendors,18936.0,Supplier T,Paid
+2024-10-19,Inflow,Sales Revenue,21740.0,Client B,Paid
+2024-10-19,Outflow,Utilities,5431.0,Supplier W,Paid
+2024-10-20,Inflow,Services,46584.0,Client G,Paid
+2024-10-20,Outflow,Cloud & SaaS,48958.0,Supplier W,Paid
+2024-10-20,Outflow,Utilities,17963.0,Supplier X,Paid
+2024-10-21,Inflow,Investment,18381.0,Client A,Paid
+2024-10-21,Inflow,Subscription,16139.0,Client F,Paid
+2024-10-21,Outflow,Compliance,28023.0,Supplier U,Paid
+2024-10-21,Outflow,Utilities,16454.0,Supplier U,Paid
+2024-10-22,Inflow,Investment,72885.0,Client G,Paid
+2024-10-22,Outflow,Vendors,19879.0,Supplier Z,Paid
+2024-10-22,Outflow,Marketing,34270.0,Supplier Z,Paid
+2024-10-23,Outflow,Salaries,13128.0,Supplier V,Paid
+2024-10-23,Outflow,Cloud & SaaS,35525.0,Supplier U,Paid
+2024-10-24,Inflow,Sales Revenue,61077.0,Client E,Paid
+2024-10-25,Inflow,Services,64621.0,Client D,Paid
+2024-10-25,Inflow,Services,36345.0,Client H,Paid
+2024-10-25,Outflow,Vendors,44476.0,Supplier V,Paid
+2024-10-26,Inflow,Investment,28967.0,Client H,Paid
+2024-10-28,Inflow,Services,12266.0,Client E,Paid
+2024-10-28,Outflow,Cloud & SaaS,10262.0,Supplier U,Paid
+2024-10-29,Inflow,Investment,30675.0,Client D,Pending
+2024-10-29,Inflow,Sales Revenue,40961.0,Client C,Paid
+2024-10-29,Outflow,Vendors,55514.0,Supplier U,Paid
+2024-10-30,Inflow,Investment,37364.0,Client A,Paid
+2024-10-31,Inflow,Investment,64459.0,Client A,Paid
+2024-10-31,Inflow,Investment,56602.0,Client A,Paid
+2024-11-01,Outflow,Salaries,39282.0,Supplier T,Paid
+2024-11-02,Inflow,Sales Revenue,12029.0,Client B,Pending
+2024-11-02,Inflow,Investment,20011.0,Client G,Paid
+2024-11-02,Outflow,Salaries,15901.0,Supplier V,Paid
+2024-11-02,Outflow,Utilities,20889.0,Supplier V,Paid
+2024-11-05,Outflow,Compliance,38325.0,Supplier U,Paid
+2024-11-05,Outflow,Rent,57975.0,Supplier Z,Paid
+2024-11-06,Inflow,Services,14006.0,Client G,Paid
+2024-11-06,Inflow,Sales Revenue,74945.0,Client G,Paid
+2024-11-07,Inflow,Subscription,68658.0,Client A,Pending
+2024-11-07,Inflow,Sales Revenue,24124.0,Client A,Paid
+2024-11-07,Outflow,Cloud & SaaS,32749.0,Supplier U,Paid
+2024-11-07,Outflow,Utilities,35154.0,Supplier X,Paid
+2024-11-08,Inflow,Investment,20864.0,Client F,Paid
+2024-11-08,Inflow,Sales Revenue,23512.0,Client C,Paid
+2024-11-08,Outflow,Cloud & SaaS,44044.0,Supplier V,Paid
+2024-11-09,Inflow,Sales Revenue,45651.0,Client A,Paid
+2024-11-09,Inflow,Sales Revenue,10306.0,Client B,Paid
+2024-11-09,Outflow,Utilities,30241.0,Supplier Z,Paid
+2024-11-10,Outflow,Vendors,10044.0,Supplier Y,Paid
+2024-11-11,Inflow,Subscription,51437.0,Client E,Paid
+2024-11-11,Outflow,Utilities,18996.0,Supplier V,Paid
+2024-11-11,Outflow,Cloud & SaaS,36482.0,Supplier Y,Paid
+2024-11-12,Outflow,Marketing,34769.0,Supplier Z,Paid
+2024-11-12,Outflow,Cloud & SaaS,36790.0,Supplier T,Paid
+2024-11-13,Outflow,Compliance,29347.0,Supplier Y,Paid
+2024-11-14,Outflow,Utilities,32959.0,Supplier Z,Paid
+2024-11-15,Inflow,Sales Revenue,19053.0,Client H,Paid
+2024-11-15,Inflow,Subscription,76349.0,Client A,Pending
+2024-11-15,Outflow,Marketing,38808.0,Supplier U,Paid
+2024-11-16,Inflow,Investment,54424.0,Client D,Paid
+2024-11-16,Outflow,Vendors,27483.0,Supplier Y,Paid
+2024-11-17,Inflow,Subscription,52110.0,Client H,Paid
+2024-11-17,Inflow,Subscription,30906.0,Client D,Pending
+2024-11-17,Outflow,Rent,13135.0,Supplier X,Paid
+2024-11-18,Inflow,Services,49604.0,Client F,Paid
+2024-11-18,Outflow,Utilities,40637.0,Supplier T,Paid
+2024-11-19,Inflow,Investment,27239.0,Client C,Paid
+2024-11-20,Outflow,Utilities,34131.0,Supplier W,Paid
+2024-11-21,Inflow,Investment,45891.0,Client F,Paid
+2024-11-21,Outflow,Salaries,53752.0,Supplier V,Paid
+2024-11-21,Outflow,Cloud & SaaS,51762.0,Supplier U,Paid
+2024-11-22,Inflow,Sales Revenue,65990.0,Client C,Paid
+2024-11-23,Inflow,Sales Revenue,44589.0,Client A,Paid
+2024-11-23,Inflow,Investment,15044.0,Client G,Paid
+2024-11-23,Outflow,Salaries,8056.0,Supplier Y,Paid
+2024-11-24,Inflow,Sales Revenue,44129.0,Client F,Pending
+2024-11-24,Outflow,Vendors,8659.0,Supplier V,Paid
+2024-11-25,Outflow,Utilities,50494.0,Supplier U,Paid
+2024-11-26,Inflow,Sales Revenue,59642.0,Client B,Paid
+2024-11-26,Outflow,Salaries,41765.0,Supplier W,Paid
+2024-11-27,Inflow,Sales Revenue,77090.0,Client H,Pending
+2024-11-27,Outflow,Marketing,47465.0,Supplier Z,Paid
+2024-11-28,Inflow,Services,20084.0,Client G,Pending
+2024-11-28,Inflow,Services,74795.0,Client C,Paid
+2024-11-28,Outflow,Rent,42122.0,Supplier U,Paid
+2024-11-28,Outflow,Cloud & SaaS,33879.0,Supplier Y,Paid
+2024-11-29,Inflow,Investment,39242.0,Client H,Paid
+2024-11-29,Inflow,Services,77060.0,Client B,Paid
+2024-11-30,Inflow,Sales Revenue,55566.0,Client E,Pending
+2024-11-30,Inflow,Subscription,69006.0,Client C,Paid
+2024-11-30,Outflow,Vendors,50950.0,Supplier X,Paid
+2024-11-30,Outflow,Cloud & SaaS,28857.0,Supplier W,Paid
+2024-12-01,Inflow,Sales Revenue,31444.0,Client B,Paid
+2024-12-01,Inflow,Sales Revenue,75850.0,Client F,Paid
+2024-12-03,Outflow,Utilities,59758.0,Supplier U,Paid
+2024-12-04,Inflow,Subscription,15888.0,Client B,Paid
+2024-12-05,Inflow,Services,54631.0,Client F,Pending
+2024-12-05,Inflow,Investment,56914.0,Client G,Paid
+2024-12-05,Outflow,Vendors,8195.0,Supplier Z,Paid
+2024-12-05,Outflow,Cloud & SaaS,45901.0,Supplier V,Paid
+2024-12-06,Inflow,Subscription,69113.0,Client D,Paid
+2024-12-06,Outflow,Utilities,47274.0,Supplier U,Paid
+2024-12-06,Outflow,Cloud & SaaS,25342.0,Supplier W,Paid
+2024-12-07,Inflow,Sales Revenue,51098.0,Client G,Pending
+2024-12-07,Inflow,Services,33841.0,Client D,Paid
+2024-12-08,Inflow,Sales Revenue,17348.0,Client D,Paid
+2024-12-08,Outflow,Utilities,55453.0,Supplier T,Paid
+2024-12-09,Inflow,Subscription,10598.0,Client C,Paid
+2024-12-11,Inflow,Subscription,58355.0,Client D,Pending
+2024-12-11,Outflow,Utilities,12832.0,Supplier W,Paid
+2024-12-11,Outflow,Marketing,5402.0,Supplier Y,Paid
+2024-12-12,Outflow,Utilities,33920.0,Supplier T,Paid
+2024-12-12,Outflow,Vendors,58999.0,Supplier T,Paid
+2024-12-13,Inflow,Investment,78933.0,Client F,Paid
+2024-12-13,Inflow,Services,46055.0,Client C,Paid
+2024-12-13,Outflow,Vendors,39285.0,Supplier W,Paid
+2024-12-14,Inflow,Services,17987.0,Client F,Paid
+2024-12-14,Inflow,Services,40806.0,Client E,Paid
+2024-12-15,Inflow,Sales Revenue,77887.0,Client H,Paid
+2024-12-15,Outflow,Vendors,20852.0,Supplier U,Paid
+2024-12-16,Inflow,Subscription,54590.0,Client A,Paid
+2024-12-16,Inflow,Sales Revenue,30844.0,Client E,Paid
+2024-12-16,Outflow,Cloud & SaaS,57979.0,Supplier V,Paid
+2024-12-16,Outflow,Compliance,59204.0,Supplier W,Paid
+2024-12-17,Outflow,Marketing,18305.0,Supplier X,Paid
+2024-12-17,Outflow,Utilities,48652.0,Supplier X,Paid
+2024-12-18,Outflow,Vendors,34722.0,Supplier Y,Paid
+2024-12-19,Inflow,Sales Revenue,67580.0,Client A,Paid
+2024-12-19,Inflow,Investment,36089.0,Client A,Pending
+2024-12-19,Outflow,Compliance,11010.0,Supplier T,Paid
+2024-12-20,Inflow,Investment,55991.0,Client A,Paid
+2024-12-20,Inflow,Services,61790.0,Client D,Paid
+2024-12-20,Outflow,Salaries,26000.0,Supplier V,Paid
+2024-12-20,Outflow,Salaries,17899.0,Supplier T,Paid
+2024-12-21,Outflow,Salaries,29406.0,Supplier V,Paid
+2024-12-21,Outflow,Rent,33304.0,Supplier T,Paid
+2024-12-22,Inflow,Subscription,63175.0,Client F,Paid
+2024-12-23,Inflow,Sales Revenue,27825.0,Client D,Paid
+2024-12-23,Outflow,Marketing,33830.0,Supplier U,Paid
+2024-12-23,Outflow,Compliance,51933.0,Supplier Z,Paid
+2024-12-24,Inflow,Subscription,41428.0,Client A,Pending
+2024-12-24,Inflow,Investment,48476.0,Client G,Paid
+2024-12-24,Outflow,Salaries,42362.0,Supplier T,Paid
+2024-12-25,Inflow,Subscription,60234.0,Client G,Paid
+2024-12-25,Outflow,Utilities,59930.0,Supplier Z,Paid
+2024-12-26,Inflow,Sales Revenue,47391.0,Client A,Paid
+2024-12-26,Inflow,Investment,23068.0,Client G,Paid
+2024-12-26,Outflow,Utilities,45408.0,Supplier X,Paid
+2024-12-27,Inflow,Sales Revenue,74070.0,Client D,Pending
+2024-12-27,Outflow,Salaries,12390.0,Supplier Z,Paid
+2024-12-29,Inflow,Sales Revenue,48836.0,Client C,Pending
+2024-12-30,Inflow,Subscription,71650.0,Client D,Pending
+2024-12-30,Inflow,Investment,72117.0,Client H,Paid
+2024-12-30,Outflow,Cloud & SaaS,32671.0,Supplier V,Paid
+2024-12-31,Outflow,Marketing,54334.0,Supplier Y,Paid
+2025-01-01,Inflow,Investment,72361.0,Client C,Paid
+2025-01-02,Inflow,Services,25093.0,Client E,Paid
+2025-01-02,Inflow,Subscription,11750.0,Client G,Paid
+2025-01-02,Outflow,Marketing,21483.0,Supplier Y,Paid
+2025-01-02,Outflow,Marketing,13549.0,Supplier V,Paid
+2025-01-04,Outflow,Vendors,18783.0,Supplier T,Paid
+2025-01-05,Inflow,Investment,40687.0,Client D,Paid
+2025-01-05,Inflow,Services,79629.0,Client F,Pending
+2025-01-05,Outflow,Utilities,49805.0,Supplier V,Paid
+2025-01-06,Outflow,Rent,30865.0,Supplier Y,Paid
+2025-01-06,Outflow,Marketing,35919.0,Supplier X,Paid
+2025-01-07,Inflow,Investment,32326.0,Client G,Paid
+2025-01-07,Outflow,Cloud & SaaS,56405.0,Supplier X,Paid
+2025-01-08,Outflow,Vendors,57787.0,Supplier X,Paid
+2025-01-08,Outflow,Salaries,21150.0,Supplier X,Paid
+2025-01-09,Outflow,Compliance,8604.0,Supplier W,Paid
+2025-01-10,Outflow,Marketing,48458.0,Supplier X,Paid
+2025-01-11,Outflow,Utilities,11138.0,Supplier Z,Paid
+2025-01-11,Outflow,Salaries,47763.0,Supplier V,Paid
+2025-01-12,Inflow,Investment,24491.0,Client C,Pending
+2025-01-12,Inflow,Sales Revenue,37588.0,Client D,Paid
+2025-01-12,Outflow,Marketing,5091.0,Supplier X,Paid
+2025-01-13,Inflow,Sales Revenue,21379.0,Client A,Paid
+2025-01-13,Outflow,Cloud & SaaS,20116.0,Supplier X,Paid
+2025-01-13,Outflow,Marketing,23320.0,Supplier W,Paid
+2025-01-14,Inflow,Investment,42706.0,Client E,Pending
+2025-01-14,Outflow,Marketing,17596.0,Supplier T,Paid
+2025-01-14,Outflow,Compliance,18336.0,Supplier W,Paid
+2025-01-15,Inflow,Sales Revenue,33334.0,Client F,Pending
+2025-01-15,Inflow,Investment,27280.0,Client D,Paid
+2025-01-15,Outflow,Cloud & SaaS,32212.0,Supplier V,Paid
+2025-01-15,Outflow,Rent,44135.0,Supplier Y,Paid
+2025-01-16,Inflow,Sales Revenue,32331.0,Client A,Paid
+2025-01-18,Inflow,Sales Revenue,67159.0,Client B,Paid
+2025-01-18,Inflow,Services,59438.0,Client D,Paid
+2025-01-19,Outflow,Utilities,17689.0,Supplier T,Paid
+2025-01-20,Inflow,Subscription,10331.0,Client G,Paid
+2025-01-20,Inflow,Subscription,53338.0,Client B,Paid
+2025-01-20,Outflow,Compliance,47511.0,Supplier U,Paid
+2025-01-22,Outflow,Cloud & SaaS,35631.0,Supplier V,Paid
+2025-01-22,Outflow,Compliance,38188.0,Supplier V,Paid
+2025-01-23,Outflow,Vendors,45377.0,Supplier Y,Paid
+2025-01-24,Outflow,Salaries,48956.0,Supplier T,Paid
+2025-01-26,Inflow,Subscription,54499.0,Client G,Paid
+2025-01-26,Outflow,Salaries,52403.0,Supplier U,Paid
+2025-01-27,Inflow,Services,11332.0,Client B,Paid
+2025-01-27,Outflow,Vendors,44885.0,Supplier T,Paid
+2025-01-28,Outflow,Marketing,50427.0,Supplier X,Paid
+2025-01-28,Outflow,Rent,53951.0,Supplier T,Paid
+2025-01-30,Inflow,Services,56915.0,Client A,Paid
+2025-01-30,Inflow,Services,65605.0,Client A,Paid
+2025-02-01,Inflow,Investment,48735.0,Client E,Paid
+2025-02-01,Inflow,Sales Revenue,37172.0,Client E,Paid
+2025-02-02,Outflow,Cloud & SaaS,27827.0,Supplier Y,Paid
+2025-02-02,Outflow,Rent,39198.0,Supplier Y,Paid
+2025-02-03,Inflow,Services,41302.0,Client B,Pending
+2025-02-03,Inflow,Services,34045.0,Client H,Paid
+2025-02-05,Outflow,Rent,13594.0,Supplier U,Paid
+2025-02-06,Inflow,Services,27756.0,Client E,Paid
+2025-02-06,Inflow,Services,48747.0,Client D,Paid
+2025-02-06,Outflow,Cloud & SaaS,42269.0,Supplier U,Paid
+2025-02-06,Outflow,Cloud & SaaS,46970.0,Supplier Y,Paid
+2025-02-07,Inflow,Sales Revenue,78839.0,Client D,Paid
+2025-02-07,Inflow,Investment,46020.0,Client A,Paid
+2025-02-07,Outflow,Marketing,48781.0,Supplier W,Paid
+2025-02-07,Outflow,Marketing,28540.0,Supplier V,Paid
+2025-02-08,Outflow,Utilities,53931.0,Supplier Z,Paid
+2025-02-08,Outflow,Utilities,13800.0,Supplier W,Paid
+2025-02-09,Outflow,Rent,57885.0,Supplier Y,Paid
+2025-02-10,Inflow,Investment,74393.0,Client H,Paid
+2025-02-10,Inflow,Sales Revenue,27063.0,Client C,Pending
+2025-02-11,Inflow,Investment,55110.0,Client F,Pending
+2025-02-11,Inflow,Services,38910.0,Client A,Paid
+2025-02-11,Outflow,Vendors,40902.0,Supplier W,Paid
+2025-02-11,Outflow,Compliance,48062.0,Supplier W,Paid
+2025-02-12,Inflow,Investment,64507.0,Client F,Paid
+2025-02-13,Inflow,Sales Revenue,45201.0,Client A,Paid
+2025-02-13,Inflow,Services,40171.0,Client D,Paid
+2025-02-13,Outflow,Compliance,16569.0,Supplier V,Paid
+2025-02-13,Outflow,Vendors,25742.0,Supplier U,Paid
+2025-02-14,Inflow,Subscription,54011.0,Client F,Pending
+2025-02-14,Inflow,Services,34366.0,Client E,Paid
+2025-02-14,Outflow,Marketing,26157.0,Supplier X,Paid
+2025-02-14,Outflow,Utilities,38097.0,Supplier V,Paid
+2025-02-15,Inflow,Sales Revenue,14737.0,Client C,Pending
+2025-02-15,Outflow,Marketing,24947.0,Supplier U,Paid
+2025-02-18,Inflow,Sales Revenue,33763.0,Client H,Paid
+2025-02-18,Inflow,Sales Revenue,27051.0,Client A,Pending
+2025-02-19,Inflow,Subscription,71672.0,Client C,Pending
+2025-02-19,Inflow,Investment,24146.0,Client B,Pending
+2025-02-19,Outflow,Salaries,33710.0,Supplier W,Paid
+2025-02-20,Inflow,Sales Revenue,18957.0,Client A,Pending
+2025-02-21,Outflow,Utilities,18461.0,Supplier T,Paid
+2025-02-21,Outflow,Compliance,32252.0,Supplier X,Paid
+2025-02-24,Outflow,Compliance,21589.0,Supplier U,Paid
+2025-02-24,Outflow,Salaries,54590.0,Supplier V,Paid
+2025-02-25,Inflow,Investment,34838.0,Client E,Paid
+2025-02-25,Outflow,Salaries,27556.0,Supplier V,Paid
+2025-02-25,Outflow,Rent,21745.0,Supplier W,Paid
+2025-02-26,Inflow,Investment,67154.0,Client F,Paid
+2025-02-27,Inflow,Sales Revenue,46469.0,Client A,Pending
+2025-02-27,Outflow,Rent,29988.0,Supplier X,Paid
+2025-02-28,Inflow,Services,50895.0,Client F,Paid
+2025-02-28,Inflow,Investment,30722.0,Client C,Paid
+2025-02-28,Outflow,Salaries,27267.0,Supplier U,Paid
+2025-03-01,Outflow,Rent,7373.0,Supplier T,Paid
+2025-03-01,Outflow,Marketing,56784.0,Supplier X,Paid
+2025-03-02,Outflow,Salaries,44970.0,Supplier Z,Paid
+2025-03-02,Outflow,Rent,19549.0,Supplier U,Paid
+2025-03-03,Inflow,Subscription,55548.0,Client A,Pending
+2025-03-05,Inflow,Investment,19386.0,Client E,Paid
+2025-03-05,Inflow,Subscription,62295.0,Client E,Paid
+2025-03-05,Outflow,Rent,44596.0,Supplier Z,Paid
+2025-03-05,Outflow,Marketing,18463.0,Supplier Y,Paid
+2025-03-06,Outflow,Compliance,9087.0,Supplier X,Paid
+2025-03-06,Outflow,Marketing,47754.0,Supplier W,Paid
+2025-03-07,Outflow,Cloud & SaaS,29835.0,Supplier Z,Paid
+2025-03-08,Inflow,Subscription,40419.0,Client B,Pending
+2025-03-08,Outflow,Rent,11911.0,Supplier V,Paid
+2025-03-08,Outflow,Cloud & SaaS,9917.0,Supplier U,Paid
+2025-03-09,Inflow,Subscription,21450.0,Client E,Paid
+2025-03-09,Inflow,Sales Revenue,24540.0,Client C,Paid
+2025-03-10,Outflow,Rent,11542.0,Supplier V,Paid
+2025-03-12,Inflow,Subscription,15022.0,Client H,Pending
+2025-03-12,Inflow,Services,47004.0,Client F,Paid
+2025-03-12,Outflow,Compliance,51182.0,Supplier X,Paid
+2025-03-13,Inflow,Subscription,61913.0,Client D,Paid
+2025-03-13,Inflow,Investment,20701.0,Client H,Paid
+2025-03-13,Outflow,Cloud & SaaS,23776.0,Supplier X,Paid
+2025-03-13,Outflow,Marketing,56249.0,Supplier X,Paid
+2025-03-14,Inflow,Sales Revenue,53589.0,Client G,Paid
+2025-03-14,Inflow,Investment,65554.0,Client B,Paid
+2025-03-14,Outflow,Cloud & SaaS,55808.0,Supplier W,Paid
+2025-03-15,Outflow,Salaries,46467.0,Supplier W,Paid
+2025-03-16,Inflow,Investment,29662.0,Client A,Pending
+2025-03-16,Inflow,Investment,42078.0,Client B,Pending
+2025-03-17,Outflow,Cloud & SaaS,39775.0,Supplier Z,Paid
+2025-03-17,Outflow,Compliance,13424.0,Supplier T,Paid
+2025-03-18,Outflow,Vendors,44939.0,Supplier W,Paid
+2025-03-19,Outflow,Utilities,41202.0,Supplier X,Paid
+2025-03-20,Inflow,Services,76504.0,Client C,Paid
+2025-03-20,Outflow,Salaries,14747.0,Supplier T,Paid
+2025-03-21,Inflow,Sales Revenue,50856.0,Client H,Pending
+2025-03-21,Inflow,Investment,30276.0,Client F,Paid
+2025-03-21,Outflow,Compliance,20276.0,Supplier W,Paid
+2025-03-21,Outflow,Vendors,34227.0,Supplier T,Paid
+2025-03-23,Inflow,Subscription,60015.0,Client F,Paid
+2025-03-23,Outflow,Marketing,26682.0,Supplier V,Paid
+2025-03-23,Outflow,Rent,35900.0,Supplier U,Paid
+2025-03-24,Inflow,Investment,60757.0,Client C,Pending
+2025-03-24,Outflow,Utilities,15422.0,Supplier Z,Paid
+2025-03-25,Inflow,Subscription,38570.0,Client D,Pending
+2025-03-25,Outflow,Vendors,11919.0,Supplier X,Paid
+2025-03-25,Outflow,Utilities,22868.0,Supplier X,Paid
+2025-03-26,Inflow,Subscription,56403.0,Client A,Paid
+2025-03-26,Outflow,Vendors,22960.0,Supplier Y,Paid
+2025-03-26,Outflow,Vendors,13932.0,Supplier V,Paid
+2025-03-27,Inflow,Investment,27267.0,Client F,Paid
+2025-03-27,Inflow,Investment,19055.0,Client C,Paid
+2025-03-27,Outflow,Rent,12625.0,Supplier Y,Paid
+2025-03-27,Outflow,Utilities,20460.0,Supplier V,Paid
+2025-03-28,Inflow,Investment,24176.0,Client E,Paid
+2025-03-28,Inflow,Investment,59097.0,Client H,Paid
+2025-03-28,Outflow,Vendors,38553.0,Supplier Y,Paid
+2025-03-28,Outflow,Utilities,21924.0,Supplier X,Paid
+2025-03-29,Outflow,Cloud & SaaS,58687.0,Supplier Z,Paid
+2025-03-29,Outflow,Utilities,29220.0,Supplier W,Paid
+2025-03-30,Outflow,Utilities,27003.0,Supplier V,Paid
+2025-03-31,Inflow,Subscription,35379.0,Client B,Paid
+2025-03-31,Inflow,Investment,69311.0,Client C,Pending
+2025-03-31,Outflow,Cloud & SaaS,52113.0,Supplier T,Paid
+2025-04-01,Inflow,Investment,54254.0,Client C,Paid
+2025-04-01,Outflow,Marketing,18431.0,Supplier V,Paid
+2025-04-02,Inflow,Investment,32123.0,Client H,Paid
+2025-04-02,Inflow,Services,11463.0,Client H,Paid
+2025-04-02,Outflow,Vendors,17824.0,Supplier X,Paid
+2025-04-02,Outflow,Utilities,31433.0,Supplier W,Paid
+2025-04-03,Inflow,Services,52435.0,Client F,Pending
+2025-04-03,Inflow,Subscription,31376.0,Client D,Paid
+2025-04-04,Inflow,Sales Revenue,30048.0,Client F,Paid
+2025-04-04,Outflow,Compliance,20988.0,Supplier W,Paid
+2025-04-05,Outflow,Salaries,5412.0,Supplier Z,Paid
+2025-04-06,Inflow,Investment,19401.0,Client B,Paid
+2025-04-06,Outflow,Vendors,43494.0,Supplier T,Paid
+2025-04-06,Outflow,Salaries,11363.0,Supplier Z,Paid
+2025-04-07,Inflow,Sales Revenue,30053.0,Client H,Paid
+2025-04-07,Outflow,Marketing,6452.0,Supplier Z,Paid
+2025-04-07,Outflow,Compliance,39081.0,Supplier V,Paid
+2025-04-08,Outflow,Salaries,39796.0,Supplier V,Paid
+2025-04-08,Outflow,Utilities,12589.0,Supplier U,Paid
+2025-04-10,Inflow,Services,25652.0,Client D,Paid
+2025-04-10,Outflow,Vendors,44098.0,Supplier T,Paid
+2025-04-10,Outflow,Rent,14699.0,Supplier Z,Paid
+2025-04-11,Inflow,Services,27055.0,Client C,Paid
+2025-04-11,Outflow,Utilities,48806.0,Supplier X,Paid
+2025-04-12,Inflow,Sales Revenue,79959.0,Client E,Paid
+2025-04-12,Inflow,Services,16663.0,Client F,Paid
+2025-04-13,Inflow,Subscription,32282.0,Client D,Paid
+2025-04-13,Inflow,Sales Revenue,39734.0,Client A,Pending
+2025-04-14,Inflow,Subscription,34733.0,Client G,Paid
+2025-04-14,Inflow,Investment,68248.0,Client G,Paid
+2025-04-14,Outflow,Marketing,27916.0,Supplier Z,Paid
+2025-04-14,Outflow,Vendors,17937.0,Supplier U,Paid
+2025-04-15,Inflow,Sales Revenue,44388.0,Client H,Pending
+2025-04-15,Inflow,Services,20073.0,Client H,Paid
+2025-04-18,Inflow,Services,14726.0,Client A,Paid
+2025-04-20,Inflow,Sales Revenue,64223.0,Client A,Pending
+2025-04-20,Outflow,Vendors,40874.0,Supplier U,Paid
+2025-04-20,Outflow,Rent,23821.0,Supplier X,Paid
+2025-04-22,Inflow,Services,67618.0,Client E,Pending
+2025-04-22,Inflow,Sales Revenue,67343.0,Client A,Pending
+2025-04-23,Inflow,Services,61645.0,Client C,Pending
+2025-04-23,Outflow,Rent,46378.0,Supplier W,Paid
+2025-04-24,Inflow,Subscription,60004.0,Client C,Pending
+2025-04-24,Outflow,Rent,27637.0,Supplier T,Paid
+2025-04-24,Outflow,Utilities,16460.0,Supplier U,Paid
+2025-04-25,Inflow,Sales Revenue,63181.0,Client C,Paid
+2025-04-25,Inflow,Sales Revenue,21359.0,Client A,Paid
+2025-04-26,Outflow,Compliance,43453.0,Supplier U,Paid
+2025-04-27,Outflow,Rent,40944.0,Supplier W,Paid
+2025-04-27,Outflow,Marketing,55483.0,Supplier Y,Paid
+2025-04-28,Inflow,Investment,78291.0,Client G,Pending
+2025-04-28,Inflow,Services,23461.0,Client B,Pending
+2025-04-28,Outflow,Compliance,41084.0,Supplier Z,Paid
+2025-04-28,Outflow,Vendors,18855.0,Supplier X,Paid
+2025-04-29,Inflow,Subscription,48563.0,Client G,Pending
+2025-04-29,Outflow,Cloud & SaaS,44079.0,Supplier X,Paid
+2025-04-29,Outflow,Salaries,34178.0,Supplier V,Paid
+2025-04-30,Inflow,Services,44033.0,Client C,Pending
+2025-04-30,Outflow,Rent,28026.0,Supplier U,Paid
+2025-05-01,Outflow,Cloud & SaaS,24169.0,Supplier Y,Paid
+2025-05-01,Outflow,Vendors,26195.0,Supplier Y,Paid
+2025-05-02,Outflow,Marketing,13937.0,Supplier W,Paid
+2025-05-03,Inflow,Investment,57365.0,Client A,Pending
+2025-05-03,Outflow,Salaries,5058.0,Supplier Y,Paid
+2025-05-04,Inflow,Services,64147.0,Client G,Paid
+2025-05-04,Outflow,Compliance,51190.0,Supplier X,Paid
+2025-05-04,Outflow,Vendors,30847.0,Supplier W,Paid
+2025-05-05,Inflow,Sales Revenue,43226.0,Client C,Paid
+2025-05-05,Inflow,Services,43188.0,Client D,Paid
+2025-05-05,Outflow,Utilities,21564.0,Supplier X,Paid
+2025-05-05,Outflow,Compliance,16775.0,Supplier X,Paid
+2025-05-06,Inflow,Subscription,17325.0,Client E,Paid
+2025-05-08,Inflow,Subscription,22620.0,Client C,Pending
+2025-05-08,Outflow,Salaries,18436.0,Supplier W,Paid
+2025-05-08,Outflow,Marketing,24655.0,Supplier Y,Paid
+2025-05-09,Inflow,Sales Revenue,39308.0,Client G,Paid
+2025-05-09,Inflow,Investment,12262.0,Client F,Paid
+2025-05-09,Outflow,Salaries,46423.0,Supplier X,Paid
+2025-05-10,Outflow,Marketing,39076.0,Supplier X,Paid
+2025-05-11,Outflow,Vendors,57944.0,Supplier X,Paid
+2025-05-11,Outflow,Utilities,50089.0,Supplier W,Paid
+2025-05-12,Outflow,Salaries,29343.0,Supplier Y,Paid
+2025-05-12,Outflow,Salaries,27069.0,Supplier Z,Paid
+2025-05-13,Inflow,Services,16046.0,Client H,Paid
+2025-05-13,Outflow,Rent,55871.0,Supplier U,Paid
+2025-05-13,Outflow,Marketing,58824.0,Supplier W,Paid
+2025-05-14,Inflow,Investment,30284.0,Client H,Pending
+2025-05-14,Outflow,Marketing,49291.0,Supplier U,Paid
+2025-05-15,Inflow,Services,18963.0,Client C,Paid
+2025-05-15,Outflow,Compliance,15626.0,Supplier X,Paid
+2025-05-16,Inflow,Services,12173.0,Client E,Pending
+2025-05-16,Inflow,Subscription,56670.0,Client D,Pending
+2025-05-16,Outflow,Utilities,49037.0,Supplier Z,Paid
+2025-05-16,Outflow,Vendors,55972.0,Supplier V,Paid
+2025-05-17,Inflow,Subscription,64105.0,Client C,Pending
+2025-05-17,Inflow,Services,77851.0,Client D,Pending
+2025-05-17,Outflow,Utilities,21016.0,Supplier Z,Paid
+2025-05-18,Inflow,Investment,32450.0,Client C,Paid
+2025-05-18,Outflow,Cloud & SaaS,25822.0,Supplier X,Paid
+2025-05-20,Inflow,Subscription,77793.0,Client G,Paid
+2025-05-20,Outflow,Cloud & SaaS,47927.0,Supplier U,Paid
+2025-05-20,Outflow,Cloud & SaaS,46554.0,Supplier Y,Paid
+2025-05-21,Inflow,Investment,77946.0,Client B,Paid
+2025-05-21,Outflow,Utilities,10752.0,Supplier V,Paid
+2025-05-21,Outflow,Utilities,7891.0,Supplier V,Paid
+2025-05-22,Inflow,Investment,17274.0,Client H,Paid
+2025-05-22,Inflow,Sales Revenue,78522.0,Client E,Paid
+2025-05-22,Outflow,Utilities,56463.0,Supplier V,Paid
+2025-05-23,Inflow,Subscription,11857.0,Client F,Paid
+2025-05-24,Inflow,Sales Revenue,44749.0,Client D,Pending
+2025-05-24,Inflow,Services,10383.0,Client G,Paid
+2025-05-25,Outflow,Compliance,53331.0,Supplier Z,Paid
+2025-05-25,Outflow,Cloud & SaaS,51799.0,Supplier X,Paid
+2025-05-26,Outflow,Cloud & SaaS,13832.0,Supplier U,Paid
+2025-05-26,Outflow,Cloud & SaaS,13236.0,Supplier Y,Paid
+2025-05-27,Inflow,Sales Revenue,77579.0,Client H,Paid
+2025-05-28,Inflow,Investment,23132.0,Client E,Paid
+2025-05-28,Inflow,Services,71470.0,Client C,Paid
+2025-05-28,Outflow,Marketing,10560.0,Supplier U,Paid
+2025-05-28,Outflow,Cloud & SaaS,32793.0,Supplier Y,Paid
+2025-05-29,Inflow,Services,78750.0,Client E,Paid
+2025-05-29,Outflow,Compliance,28373.0,Supplier Z,Paid
+2025-05-30,Outflow,Salaries,12082.0,Supplier V,Paid
+2025-05-31,Inflow,Sales Revenue,68640.0,Client C,Paid
+2025-05-31,Inflow,Services,31265.0,Client G,Paid
+2025-06-01,Outflow,Cloud & SaaS,33625.0,Supplier W,Paid
+2025-06-01,Outflow,Utilities,28848.0,Supplier T,Paid
+2025-06-02,Outflow,Salaries,41758.0,Supplier Z,Paid
+2025-06-03,Inflow,Sales Revenue,19545.0,Client E,Pending
+2025-06-03,Inflow,Services,77273.0,Client H,Paid
+2025-06-03,Outflow,Salaries,29603.0,Supplier T,Paid
+2025-06-04,Outflow,Rent,23927.0,Supplier X,Paid
+2025-06-05,Inflow,Subscription,23912.0,Client B,Paid
+2025-06-05,Outflow,Compliance,27819.0,Supplier Y,Paid
+2025-06-05,Outflow,Utilities,9440.0,Supplier T,Paid
+2025-06-06,Inflow,Services,71891.0,Client C,Pending
+2025-06-06,Inflow,Subscription,19362.0,Client C,Paid
+2025-06-06,Outflow,Cloud & SaaS,16245.0,Supplier Z,Paid
+2025-06-06,Outflow,Cloud & SaaS,59644.0,Supplier V,Paid
+2025-06-07,Inflow,Services,24241.0,Client E,Pending
+2025-06-08,Inflow,Sales Revenue,37209.0,Client C,Paid
+2025-06-08,Outflow,Vendors,46897.0,Supplier V,Paid
+2025-06-08,Outflow,Rent,11462.0,Supplier X,Paid
+2025-06-09,Outflow,Rent,56532.0,Supplier U,Paid
+2025-06-09,Outflow,Salaries,34419.0,Supplier V,Paid
+2025-06-10,Inflow,Subscription,59552.0,Client G,Pending
+2025-06-10,Inflow,Sales Revenue,79242.0,Client B,Paid
+2025-06-10,Outflow,Marketing,20882.0,Supplier U,Paid
+2025-06-11,Outflow,Rent,20732.0,Supplier V,Paid
+2025-06-13,Inflow,Services,18924.0,Client E,Paid
+2025-06-13,Inflow,Investment,18886.0,Client E,Paid
+2025-06-13,Outflow,Compliance,24907.0,Supplier T,Paid
+2025-06-13,Outflow,Compliance,11981.0,Supplier U,Paid
+2025-06-14,Outflow,Cloud & SaaS,26343.0,Supplier V,Paid
+2025-06-15,Inflow,Subscription,78026.0,Client F,Paid
+2025-06-15,Inflow,Subscription,43805.0,Client D,Paid
+2025-06-16,Inflow,Sales Revenue,35311.0,Client D,Paid
+2025-06-17,Outflow,Cloud & SaaS,9258.0,Supplier U,Paid
+2025-06-17,Outflow,Cloud & SaaS,44846.0,Supplier Y,Paid
+2025-06-18,Inflow,Sales Revenue,52855.0,Client A,Pending
+2025-06-18,Inflow,Investment,21026.0,Client B,Pending
+2025-06-18,Outflow,Vendors,58665.0,Supplier Y,Paid
+2025-06-18,Outflow,Cloud & SaaS,26094.0,Supplier T,Paid
+2025-06-19,Inflow,Sales Revenue,78403.0,Client B,Paid
+2025-06-19,Inflow,Subscription,13438.0,Client B,Paid
+2025-06-19,Outflow,Rent,8483.0,Supplier Y,Paid
+2025-06-19,Outflow,Cloud & SaaS,13172.0,Supplier Z,Paid
+2025-06-20,Inflow,Services,47605.0,Client F,Paid
+2025-06-20,Inflow,Services,24130.0,Client G,Paid
+2025-06-21,Inflow,Services,70489.0,Client H,Paid
+2025-06-21,Outflow,Salaries,24134.0,Supplier X,Paid
+2025-06-22,Inflow,Subscription,38501.0,Client E,Paid
+2025-06-23,Inflow,Investment,32790.0,Client A,Paid
+2025-06-23,Inflow,Sales Revenue,39611.0,Client E,Pending
+2025-06-23,Outflow,Utilities,15207.0,Supplier Y,Paid
+2025-06-24,Inflow,Investment,40433.0,Client B,Paid
+2025-06-24,Inflow,Investment,60533.0,Client B,Paid
+2025-06-25,Inflow,Investment,23153.0,Client A,Paid
+2025-06-25,Inflow,Services,44835.0,Client E,Paid
+2025-06-25,Outflow,Compliance,32950.0,Supplier W,Paid
+2025-06-25,Outflow,Compliance,20230.0,Supplier X,Paid
+2025-06-26,Inflow,Investment,43456.0,Client D,Paid
+2025-06-26,Outflow,Vendors,8675.0,Supplier T,Paid
+2025-06-28,Inflow,Sales Revenue,52781.0,Client E,Paid
+2025-06-28,Inflow,Subscription,11212.0,Client D,Paid
+2025-06-28,Outflow,Cloud & SaaS,20556.0,Supplier U,Paid
+2025-06-29,Outflow,Vendors,50221.0,Supplier T,Paid
+2025-06-29,Outflow,Vendors,46118.0,Supplier V,Paid
+2025-06-30,Inflow,Sales Revenue,54655.0,Client G,Paid
+2025-06-30,Outflow,Marketing,39708.0,Supplier Z,Paid
+2025-07-01,Inflow,Services,64462.0,Client H,Paid
+2025-07-01,Outflow,Marketing,43769.0,Supplier T,Paid
+2025-07-02,Inflow,Subscription,66848.0,Client E,Paid
+2025-07-02,Outflow,Cloud & SaaS,45511.0,Supplier W,Paid
+2025-07-03,Inflow,Services,51857.0,Client C,Paid
+2025-07-04,Inflow,Services,36175.0,Client A,Paid
+2025-07-05,Outflow,Rent,45284.0,Supplier W,Paid
+2025-07-05,Outflow,Salaries,11089.0,Supplier V,Paid
+2025-07-06,Inflow,Sales Revenue,29788.0,Client D,Pending
+2025-07-06,Inflow,Services,32964.0,Client B,Paid
+2025-07-07,Inflow,Services,21863.0,Client G,Paid
+2025-07-07,Inflow,Subscription,62589.0,Client G,Pending
+2025-07-07,Outflow,Rent,49121.0,Supplier Z,Paid
+2025-07-07,Outflow,Rent,20038.0,Supplier Z,Paid
+2025-07-08,Inflow,Services,59495.0,Client G,Paid
+2025-07-10,Inflow,Investment,26817.0,Client E,Paid
+2025-07-10,Outflow,Vendors,10995.0,Supplier Y,Paid
+2025-07-11,Inflow,Subscription,67438.0,Client B,Pending
+2025-07-11,Outflow,Rent,24844.0,Supplier Y,Paid
+2025-07-12,Outflow,Marketing,23884.0,Supplier U,Paid
+2025-07-13,Outflow,Rent,46347.0,Supplier Z,Paid
+2025-07-13,Outflow,Rent,15095.0,Supplier Z,Paid
+2025-07-15,Inflow,Investment,31207.0,Client C,Paid
+2025-07-15,Outflow,Cloud & SaaS,17979.0,Supplier U,Paid
+2025-07-15,Outflow,Compliance,8247.0,Supplier Z,Paid
+2025-07-16,Inflow,Sales Revenue,55009.0,Client G,Paid
+2025-07-16,Outflow,Cloud & SaaS,59935.0,Supplier T,Paid
+2025-07-17,Inflow,Investment,68267.0,Client E,Paid
+2025-07-17,Outflow,Cloud & SaaS,24733.0,Supplier U,Paid
+2025-07-17,Outflow,Utilities,9463.0,Supplier X,Paid
+2025-07-18,Inflow,Subscription,42807.0,Client D,Pending
+2025-07-18,Outflow,Cloud & SaaS,29824.0,Supplier U,Paid
+2025-07-19,Inflow,Investment,68562.0,Client A,Paid
+2025-07-19,Outflow,Rent,17384.0,Supplier U,Paid
+2025-07-20,Outflow,Compliance,47379.0,Supplier T,Paid
+2025-07-20,Outflow,Salaries,53010.0,Supplier V,Paid
+2025-07-22,Outflow,Rent,46194.0,Supplier U,Paid
+2025-07-23,Inflow,Subscription,75716.0,Client C,Paid
+2025-07-23,Outflow,Utilities,35635.0,Supplier Z,Paid
+2025-07-26,Inflow,Investment,54056.0,Client G,Pending
+2025-07-26,Inflow,Investment,14158.0,Client A,Paid
+2025-07-27,Inflow,Sales Revenue,61790.0,Client B,Paid
+2025-07-27,Inflow,Subscription,78539.0,Client H,Paid
+2025-07-28,Inflow,Services,30959.0,Client H,Paid
+2025-07-28,Inflow,Sales Revenue,39418.0,Client H,Pending
+2025-07-29,Inflow,Subscription,49316.0,Client A,Pending
+2025-07-29,Outflow,Cloud & SaaS,59230.0,Supplier T,Paid
+2025-07-29,Outflow,Vendors,18916.0,Supplier U,Paid
+2025-07-30,Inflow,Subscription,50517.0,Client F,Paid
+2025-07-30,Outflow,Rent,51258.0,Supplier T,Paid
+2025-07-30,Outflow,Utilities,5236.0,Supplier W,Paid
+2025-07-31,Inflow,Sales Revenue,71807.0,Client B,Paid
+2025-07-31,Outflow,Cloud & SaaS,54365.0,Supplier U,Paid
+2025-07-31,Outflow,Vendors,49546.0,Supplier X,Paid
+2025-08-01,Outflow,Vendors,23610.0,Supplier Y,Paid
+2025-08-02,Inflow,Sales Revenue,23218.0,Client B,Paid
+2025-08-03,Inflow,Services,43559.0,Client G,Paid
+2025-08-03,Outflow,Vendors,40323.0,Supplier T,Paid
+2025-08-04,Outflow,Marketing,14064.0,Supplier T,Paid
+2025-08-04,Outflow,Rent,27184.0,Supplier V,Paid
+2025-08-06,Inflow,Investment,16088.0,Client H,Paid
+2025-08-06,Inflow,Subscription,38983.0,Client B,Paid
+2025-08-06,Outflow,Rent,14556.0,Supplier Z,Paid
+2025-08-06,Outflow,Rent,30510.0,Supplier Z,Paid
+2025-08-07,Outflow,Compliance,16646.0,Supplier W,Paid
+2025-08-07,Outflow,Utilities,49149.0,Supplier Y,Paid
+2025-08-08,Inflow,Subscription,18299.0,Client C,Paid
+2025-08-09,Outflow,Marketing,33238.0,Supplier V,Paid
+2025-08-09,Outflow,Marketing,17357.0,Supplier U,Paid
+2025-08-10,Inflow,Sales Revenue,27907.0,Client A,Paid
+2025-08-10,Outflow,Utilities,48264.0,Supplier W,Paid
+2025-08-11,Inflow,Subscription,24765.0,Client H,Paid
+2025-08-11,Inflow,Sales Revenue,69569.0,Client G,Paid
+2025-08-12,Outflow,Compliance,7779.0,Supplier V,Paid
+2025-08-13,Inflow,Services,16927.0,Client E,Paid
+2025-08-14,Inflow,Investment,18523.0,Client B,Paid
+2025-08-15,Outflow,Cloud & SaaS,58637.0,Supplier X,Paid
+2025-08-15,Outflow,Rent,53217.0,Supplier W,Paid
+2025-08-16,Inflow,Investment,13242.0,Client B,Paid
+2025-08-16,Inflow,Subscription,53466.0,Client D,Paid
+2025-08-16,Outflow,Rent,59273.0,Supplier Z,Paid
+2025-08-16,Outflow,Utilities,32658.0,Supplier W,Paid
+2025-08-17,Inflow,Subscription,70038.0,Client G,Paid
+2025-08-17,Outflow,Compliance,57855.0,Supplier U,Paid
