@@ -2,7 +2,7 @@
 # 💳 SME Cashflow Insights Dashboard
 
 An interactive **Fintech Analytics Dashboard** built with **Streamlit** to simulate SME (Small & Medium Enterprise) transactions, compute financial KPIs, and visualize cashflows.  
-This project was designed as a **portfolio project** to showcase data-driven product thinking for fintech startups
+This project was designed as a **portfolio project** to showcase data-driven product thinking for fintech.
 
 ---
 
@@ -64,4 +64,4 @@ streamlit run app.py
 
 ## 📌 About This Project
 This project was created to demonstrate **data-driven product development** in the fintech domain.  
-It combines **engineering (Python, ML tools)** with **business insights (KPIs for SMEs)** — aligned with the role of a Product Intern at fintech companies like Aspire.  
+It combines **engineering (Python, ML tools)** with **business insights (KPIs for SMEs)**.  
